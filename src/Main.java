@@ -8,5 +8,8 @@ public class Main {
 
         Subtractor subtractor = new Subtractor();
         System.out.println(subtractor.subtract(6, 3));
+
+        Dividor dividor = new Dividor();
+        System.out.println(dividor.divide(6, 3));
     }
 }
