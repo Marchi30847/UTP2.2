@@ -8,8 +8,5 @@ public class Main {
 
         Subtractor subtractor = new Subtractor();
         System.out.println(subtractor.subtract(6, 3));
-
-        Multiplier multiplier = new Multiplier();
-        System.out.println(multiplier.multiply(65426, 654));
     }
 }
